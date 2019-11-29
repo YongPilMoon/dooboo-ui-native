@@ -161,7 +161,7 @@ declare module 'styled-components' {
 
 - colors
 
-  | param           | light              | dark               |
+  | params          | light              | dark               |
   | --------------- | ------------------ | ------------------ |
   | brand           | #29BDFF            | #09071D            |
   | brandLight      | #2973FF            | #29BDFF            |
